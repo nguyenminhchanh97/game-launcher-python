@@ -1,0 +1,13 @@
+{
+  "games": [
+    {
+      "id": "sample-1",
+      "name": "Sample Game",
+      "platform": "windows",
+      "tags": ["sample"],
+      "exe_path": "",
+      "work_dir": "",
+      "args": ""
+    }
+  ]
+}
